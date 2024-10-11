@@ -1,0 +1,6 @@
+node_modules/**
+docfile.pdf
+sample1.jpg
+package-lock.json
+miaw_file_send.js
+miaw_load_test.js
